@@ -1,0 +1,216 @@
+country,Population,name
+ABW,106445.0,Aruba
+AFG,41128771.0,Afghanistan
+AGO,35588987.0,Angola
+ALB,2775634.0,Albania
+AND,79824.0,Andorra
+ARE,9441129.0,United Arab Emirates
+ARG,46234830.0,Argentina
+ARM,2780469.0,Armenia
+ASM,44273.0,American Samoa
+ATG,93763.0,Antigua and Barbuda
+AUS,25978935.0,Australia
+AUT,9042528.0,Austria
+AZE,10175016.0,Azerbaijan
+BDI,12889576.0,Burundi
+BEL,11669446.0,Belgium
+BEN,13352864.0,Benin
+BFA,22673762.0,Burkina Faso
+BGD,171186372.0,Bangladesh
+BGR,6465097.0,Bulgaria
+BHR,1472233.0,Bahrain
+BHS,409984.0,"Bahamas, The"
+BIH,3233526.0,Bosnia and Herzegovina
+BLR,9208701.0,Belarus
+BLZ,405272.0,Belize
+BMU,63532.0,Bermuda
+BOL,12224110.0,Bolivia
+BRA,215313498.0,Brazil
+BRB,281635.0,Barbados
+BRN,449002.0,Brunei Darussalam
+BTN,782455.0,Bhutan
+BWA,2630296.0,Botswana
+CAF,5579144.0,Central African Republic
+CAN,38929902.0,Canada
+CHE,8769741.0,Switzerland
+CHL,19603733.0,Chile
+CHN,1412175000.0,China
+CIV,28160542.0,Cote d'Ivoire
+CMR,27914536.0,Cameroon
+COD,99010212.0,"Congo, Dem. Rep."
+COG,5970424.0,"Congo, Rep."
+COL,51874024.0,Colombia
+COM,836774.0,Comoros
+CPV,593149.0,Cabo Verde
+CRI,5180829.0,Costa Rica
+CUB,11212191.0,Cuba
+CUW,149996.0,Curacao
+CYM,68706.0,Cayman Islands
+CYP,1251488.0,Cyprus
+CZE,10526073.0,Czechia
+DEU,84079811.0,Germany
+DJI,1120849.0,Djibouti
+DMA,72737.0,Dominica
+DNK,5903037.0,Denmark
+DOM,11228821.0,Dominican Republic
+DZA,44903225.0,Algeria
+ECU,18001000.0,Ecuador
+EGY,110990103.0,"Egypt, Arab Rep."
+ERI,3684032.0,Eritrea
+ESP,47615034.0,Spain
+EST,1344768.0,Estonia
+ETH,123379924.0,Ethiopia
+FIN,5556880.0,Finland
+FJI,929766.0,Fiji
+FRA,67935660.0,France
+FRO,53090.0,Faroe Islands
+FSM,114164.0,"Micronesia, Fed. Sts."
+GAB,2388992.0,Gabon
+GBR,66971411.0,United Kingdom
+GEO,3712502.0,Georgia
+GHA,33475870.0,Ghana
+GIB,32649.0,Gibraltar
+GIN,13859341.0,Guinea
+GMB,2705992.0,"Gambia, The"
+GNB,2105566.0,Guinea-Bissau
+GNQ,1674908.0,Equatorial Guinea
+GRC,10566531.0,Greece
+GRD,125438.0,Grenada
+GRL,56661.0,Greenland
+GTM,17357886.0,Guatemala
+GUM,171774.0,Guam
+GUY,808726.0,Guyana
+HKG,7346100.0,"Hong Kong SAR, China"
+HND,10432860.0,Honduras
+HRV,3854000.0,Croatia
+HTI,11584996.0,Haiti
+HUN,9683505.0,Hungary
+IDN,275501339.0,Indonesia
+IMN,84519.0,Isle of Man
+IND,1417173173.0,India
+IRL,5086988.0,Ireland
+IRN,88550570.0,"Iran, Islamic Rep."
+IRQ,44496122.0,Iraq
+ISL,381900.0,Iceland
+ISR,9550600.0,Israel
+ITA,58856847.0,Italy
+JAM,2827377.0,Jamaica
+JOR,11285869.0,Jordan
+JPN,125124989.0,Japan
+KAZ,19621972.0,Kazakhstan
+KEN,54027487.0,Kenya
+KGZ,6803300.0,Kyrgyz Republic
+KHM,16767842.0,Cambodia
+KIR,131232.0,Kiribati
+KNA,47657.0,St. Kitts and Nevis
+KOR,51628117.0,"Korea, Rep."
+KWT,4268873.0,Kuwait
+LAO,7529475.0,Lao PDR
+LBN,5489739.0,Lebanon
+LBR,5302681.0,Liberia
+LBY,6812341.0,Libya
+LCA,179857.0,St. Lucia
+LIE,39327.0,Liechtenstein
+LKA,22181000.0,Sri Lanka
+LSO,2305825.0,Lesotho
+LTU,2833000.0,Lithuania
+LUX,650774.0,Luxembourg
+LVA,1883379.0,Latvia
+MAC,695168.0,"Macao SAR, China"
+MAF,31791.0,St. Martin (French part)
+MAR,37457971.0,Morocco
+MCO,36469.0,Monaco
+MDA,2592477.0,Moldova
+MDG,29611714.0,Madagascar
+MDV,523787.0,Maldives
+MEX,127504125.0,Mexico
+MHL,41569.0,Marshall Islands
+MKD,2057679.0,North Macedonia
+MLI,22593590.0,Mali
+MLT,523417.0,Malta
+MMR,54179306.0,Myanmar
+MNE,616159.0,Montenegro
+MNG,3398366.0,Mongolia
+MNP,49551.0,Northern Mariana Islands
+MOZ,32969518.0,Mozambique
+MRT,4736139.0,Mauritania
+MUS,1262523.0,Mauritius
+MWI,20405317.0,Malawi
+MYS,33938221.0,Malaysia
+NAM,2567012.0,Namibia
+NCL,276780.0,New Caledonia
+NER,26207977.0,Niger
+NGA,218541212.0,Nigeria
+NIC,6948392.0,Nicaragua
+NLD,17703090.0,Netherlands
+NOR,5457127.0,Norway
+NPL,30547580.0,Nepal
+NRU,12668.0,Nauru
+NZL,5124100.0,New Zealand
+OMN,4576298.0,Oman
+PAK,235824862.0,Pakistan
+PAN,4408581.0,Panama
+PER,34049588.0,Peru
+PHL,115559009.0,Philippines
+PLW,18055.0,Palau
+PNG,10142619.0,Papua New Guinea
+POL,37561599.0,Poland
+PRI,3221789.0,Puerto Rico
+PRK,26069416.0,"Korea, Dem. People's Rep."
+PRT,10379007.0,Portugal
+PRY,6780744.0,Paraguay
+PSE,5043612.0,West Bank and Gaza
+PYF,306279.0,French Polynesia
+QAT,2695122.0,Qatar
+ROU,18956666.0,Romania
+RUS,143555736.0,Russian Federation
+RWA,13776698.0,Rwanda
+SAU,36408820.0,Saudi Arabia
+SDN,46874204.0,Sudan
+SEN,17316449.0,Senegal
+SGP,5637022.0,Singapore
+SLB,724273.0,Solomon Islands
+SLE,8605718.0,Sierra Leone
+SLV,6336392.0,El Salvador
+SMR,33660.0,San Marino
+SOM,17597511.0,Somalia
+SRB,6760087.0,Serbia
+SSD,10913164.0,South Sudan
+STP,227380.0,Sao Tome and Principe
+SUR,618040.0,Suriname
+SVK,5431752.0,Slovak Republic
+SVN,2108732.0,Slovenia
+SWE,10486941.0,Sweden
+SWZ,1201670.0,Eswatini
+SXM,43389.0,Sint Maarten (Dutch part)
+SYC,100060.0,Seychelles
+SYR,22125249.0,Syrian Arab Republic
+TCA,45703.0,Turks and Caicos Islands
+TCD,17723315.0,Chad
+TGO,8848699.0,Togo
+THA,71697030.0,Thailand
+TJK,9952787.0,Tajikistan
+TKM,6430770.0,Turkmenistan
+TLS,1341296.0,Timor-Leste
+TON,106858.0,Tonga
+TTO,1531044.0,Trinidad and Tobago
+TUN,12356117.0,Tunisia
+TUR,85341241.0,Turkiye
+TUV,11312.0,Tuvalu
+TZA,65497748.0,Tanzania
+UGA,47249585.0,Uganda
+UKR,38000000.0,Ukraine
+URY,3422794.0,Uruguay
+USA,333287557.0,United States
+UZB,35648100.0,Uzbekistan
+VCT,103948.0,St. Vincent and the Grenadines
+VEN,28301696.0,"Venezuela, RB"
+VGB,31305.0,British Virgin Islands
+VIR,105413.0,Virgin Islands (U.S.)
+VNM,98186856.0,Viet Nam
+VUT,326740.0,Vanuatu
+WSM,222382.0,Samoa
+YEM,33696614.0,"Yemen, Rep."
+ZAF,59893885.0,South Africa
+ZMB,20017675.0,Zambia
+ZWE,16320537.0,Zimbabwe
